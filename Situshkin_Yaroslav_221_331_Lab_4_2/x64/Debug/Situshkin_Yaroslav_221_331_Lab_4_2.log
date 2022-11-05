@@ -1,0 +1,5 @@
+﻿  Situshkin_Yaroslav_221_331_Lab_4_2.cpp
+D:\ira\nsa\Yaroslav_Situshkin_221_331\Situshkin_Yaroslav_221_331_Lab_4_2\Situshkin_Yaroslav_221_331_Lab_4_2\Situshkin_Yaroslav_221_331_Lab_4_2.cpp(14,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ira\nsa\Yaroslav_Situshkin_221_331\Situshkin_Yaroslav_221_331_Lab_4_2\Situshkin_Yaroslav_221_331_Lab_4_2\Situshkin_Yaroslav_221_331_Lab_4_2.cpp(29,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ira\nsa\Yaroslav_Situshkin_221_331\Situshkin_Yaroslav_221_331_Lab_4_2\Situshkin_Yaroslav_221_331_Lab_4_2\Situshkin_Yaroslav_221_331_Lab_4_2.cpp(72,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ira\nsa\Yaroslav_Situshkin_221_331\Situshkin_Yaroslav_221_331_Lab_4_2\Situshkin_Yaroslav_221_331_Lab_4_2\Situshkin_Yaroslav_221_331_Lab_4_2.cpp(103): error C4700: uninitialized local variable 'choice' used
